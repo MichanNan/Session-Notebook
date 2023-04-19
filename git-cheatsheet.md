@@ -1,3 +1,10 @@
+## git
+
+- git init create the git repo locally
+- git add . add all the files to stage
+- git commit -m "" commit to local repo
+- git push push to remot repo
+
 ## git branch
 
 - git switch -c creat a branch and switch to that branch
